@@ -1,0 +1,23 @@
+EMPRESA: Nexora Tecnologia Ltda
+Sede: Fortaleza, Ceará
+Fundação: 2019
+Número de funcionários: 48
+
+PROJETOS
+Projeto Alpha: plataforma de gestão de pedidos para o cliente Acme Corp. Status: atrasado. Prazo original: 30 de junho de 2026. Novo prazo: 15 de novembro de 2026. Responsável: Marina Duarte.
+Projeto Beta: aplicativo de atendimento ao cliente. Status: em andamento, dentro do prazo. Entrega prevista para 20 de dezembro de 2026. Responsável: Rafael Lima.
+Projeto Gama: migração da infraestrutura para a nuvem. Status: concluído em março de 2026.
+
+CLIENTES
+Cliente principal: Acme Corp, responsável por 45 por cento da receita anual.
+Segundo maior cliente: Delta Logística.
+
+METAS
+Meta de vendas de 2026: R$ 2 milhões.
+Vendas acumuladas até setembro de 2026: R$ 1,4 milhão.
+
+POLÍTICAS INTERNAS
+Horário de expediente: segunda a sexta, das 8h às 17h.
+Trabalho remoto: permitido às quartas e sextas.
+Reuniões gerais: toda segunda às 9h.
+Suporte de TI: ti@nexora.example, atendimento até as 18h.
